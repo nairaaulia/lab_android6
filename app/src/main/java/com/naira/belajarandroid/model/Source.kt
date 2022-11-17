@@ -1,6 +1,6 @@
 package com.naira.belajarandroid.model
 
-data class  Source(
+data class Source(
     val id: String,
     val name: String
 )
